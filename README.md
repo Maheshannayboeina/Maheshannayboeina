@@ -1,9 +1,9 @@
-[![MasterHead](C:\Users\Mahesh annayboeina\OneDrive\Pictures\@2x-Blog-Multimodal-Learning-Animation.gif)](https://Maheshannayboeina.io)
+[![MasterHead](https://b2662075.smushcdn.com/2662075/wp-content/uploads/@2x-Blog-Multimodal-Learning-Animation.gif?lossy=0&strip=1&webp=1)](https://Maheshannayboeina.io)
 
 <h1 align="center">Hi 👋, I'm Mahesh annayboeina</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="C:\Users\Mahesh annayboeina\OneDrive\Pictures\giphy.gif">
-
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2sxbXdvZ2lvZWdjdHo2OXk0amcxdzNsc2dvNmM5ZHc1NW51YXlxMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshannayboeina&label=Profile%20views&color=0e75b6&style=flat" alt="maheshannayboeina" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshannayboeina" alt="maheshannayboeina" /></a> </p>
