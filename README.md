@@ -3,24 +3,29 @@
 </div>
 
 <p align="center">
-  <a href="#01--active-missions"><kbd>01</kbd> MISSIONS</a> &nbsp;·&nbsp;
-  <a href="#02--gig-board"><kbd>02</kbd> GIGS</a> &nbsp;·&nbsp;
-  <a href="#03--loadout"><kbd>03</kbd> LOADOUT</a> &nbsp;·&nbsp;
-  <a href="#04--reputation"><kbd>04</kbd> REP</a> &nbsp;·&nbsp;
-  <a href="#05--braindance"><kbd>05</kbd> BRAINDANCE</a> &nbsp;·&nbsp;
-  <a href="#06--boss-fight"><kbd>06</kbd> CONTACT</a>
+  <a href="#01--active-missions"><kbd>01</kbd>&nbsp;MISSIONS</a> ·
+  <a href="#02--gig-board"><kbd>02</kbd>&nbsp;GIGS</a> ·
+  <a href="#03--loadout"><kbd>03</kbd>&nbsp;LOADOUT</a> ·
+  <a href="#04--reputation"><kbd>04</kbd>&nbsp;REP</a> ·
+  <a href="#05--braindance"><kbd>05</kbd>&nbsp;BRAINDANCE</a> ·
+  <a href="#06--boss-fight"><kbd>06</kbd>&nbsp;CONTACT</a>
 </p>
 
 ```console
-eth3real@nightcity:~$ whoami
-Mahesh Annayboeina — VAPT / penetration tester · final-year Cybersecurity B.Tech @ SAKEC
+eth3real@nc:~$ whoami
+Mahesh Annayboeina
+VAPT / pentester · Mumbai
+Final-year Cybersecurity, SAKEC
 
-eth3real@nightcity:~$ cat mission.txt
-Break systems ethically. Prove what's broken. Write it so defenders can fix it.
+eth3real@nc:~$ cat mission.txt
+Break systems ethically.
+Prove what's broken. Write it
+so defenders can fix it.
 
-eth3real@nightcity:~$ status --now
-> VAPT Intern @ Secforge — Andheri, Mumbai
-> Open to full-time security roles — remote / relocation
+eth3real@nc:~$ status --now
+> VAPT Intern @ Secforge, Mumbai
+> Open to full-time roles
+  remote / relocation
 ```
 
 <div align="center">
@@ -35,11 +40,28 @@ eth3real@nightcity:~$ status --now
 
 *Three contracts on record. One objective: find the flaw before someone else does.*
 
-| ID | OPERATION | ROLE | WINDOW | DEBRIEF |
-| :-- | :-- | :-- | :-- | :-- |
-| `M01` | **Secforge Pvt. Ltd.** | VAPT Intern | `2026.10 → NOW` | Web, API and network VAPT across client environments. Nessus scans, configuration reviews, and manual testing with Burp Suite, Nmap, Metasploit, sqlmap, Postman and Wireshark. Findings triaged against CVSS, OWASP Top 10 and CIS Benchmarks; client-ready remediation reports. |
-| `M02` | **CyberPeace Foundation** | Cybersecurity Intern | `2025.12 → 2026.05` | Delivered cybersecurity awareness and CTF training. Built technical curriculum and coordinated student teams at competitive security events. |
-| `M03` | **DΣDSEC** | Co-Founder | `2025 → NOW` | Co-founded a student security community ranked Top 30 in India on CTFtime. Led teams to 1st at X'ploitathon (200+ teams), 2nd at RAIT CTF and BYPASS CTF, and 4th at KJSSE CTF 3.0. Ran two CTF events for 75+ participants. |
+<table>
+  <thead>
+    <tr>
+      <th align="left">FILE</th>
+      <th align="left">OPERATION</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top"><code>M01</code></td>
+      <td valign="top"><strong>Secforge Pvt. Ltd.</strong><br><code>VAPT INTERN</code> · <code>2026.10 → NOW</code><br>Web, API and network VAPT across client environments. Nessus scans, configuration reviews, and manual testing with Burp Suite, Nmap, Metasploit, sqlmap, Postman and Wireshark. Findings triaged against CVSS, OWASP Top 10 and CIS Benchmarks; client-ready remediation reports.</td>
+    </tr>
+    <tr>
+      <td valign="top"><code>M02</code></td>
+      <td valign="top"><strong>CyberPeace Foundation</strong><br><code>CYBERSECURITY INTERN</code> · <code>2025.12 → 2026.05</code><br>Delivered cybersecurity awareness and CTF training. Built technical curriculum and coordinated student teams at competitive security events.</td>
+    </tr>
+    <tr>
+      <td valign="top"><code>M03</code></td>
+      <td valign="top"><strong>DΣDSEC</strong><br><code>CO-FOUNDER</code> · <code>2025 → NOW</code><br>Co-founded a student security community ranked Top 30 in India on CTFtime. Led teams to 1st at X'ploitathon (200+ teams), 2nd at RAIT CTF and BYPASS CTF, and 4th at KJSSE CTF 3.0. Ran two CTF events for 75+ participants.</td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="center">
   <img src="assets/divider.svg" alt="" width="100%">
@@ -49,14 +71,40 @@ eth3real@nightcity:~$ status --now
 
 *Field work. Pick a contract and inspect the payload.*
 
-| ID | GIG | BRIEF | STACK | ACCESS |
-| :-- | :-- | :-- | :-- | :-- |
-| `G01` | **cve-research** | Coordinated disclosure archive. CVE-2026-121427 writeup, per-advisory metadata, validator and CI. | `Python` `YAML` `GitHub Actions` | [REPO →](https://github.com/Maheshannayboeina/cve-research) |
-| `G02` | **Cyber-Incident-Response** | ML-assisted platform to report and respond to cyber and physical incidents: prediction, guidance, live analytics and maps. | `Flask` `Python` `Chart.js` `Leaflet` | [REPO →](https://github.com/Maheshannayboeina/Cyber-Incident-Response) |
-| `G03` | **cyber-colloquy** | Official website for the SAKEC Cyber Security Department: events, achievements and projects. | `Next.js` `Tailwind` `Vercel` | [LIVE →](https://cyber-colloquy.vercel.app) · [REPO →](https://github.com/Maheshannayboeina/cyber-colloquy) |
-| `G04` | **Eth3real-Notes** | Living knowledge base: TryHackMe and Hack The Box walkthroughs, CTF writeups, exploitation notes. | `GitBook` `Markdown` | [READ →](https://eth3real.gitbook.io/eth3real) · [REPO →](https://github.com/Maheshannayboeina/Eth3real-Notes) |
-| `G05` | **learning_c** | Public study log while working through *Head First C* — one commit at a time. | `C` | [REPO →](https://github.com/Maheshannayboeina/learning_c) |
-| `G06` | **Active Directory Offensive Security Lab** | Three-host AD range: LLMNR/IPv6 poisoning, SMB/NTLM relay, Kerberoasting, AS-REP Roasting, Pass-the-Hash, RBCD, Golden Ticket and ESC1. Attack paths mapped in BloodHound. | `Windows Server` `Active Directory` `BloodHound` | `CLASSIFIED` |
+<table>
+  <thead>
+    <tr>
+      <th align="left">FILE</th>
+      <th align="left">CONTRACT</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top"><code>G01</code></td>
+      <td valign="top"><strong>cve-research</strong><br>Coordinated disclosure archive. CVE-2026-121427 writeup, per-advisory metadata, validator and CI.<br><code>PYTHON</code> <code>YAML</code> <code>GITHUB ACTIONS</code> · <a href="https://github.com/Maheshannayboeina/cve-research">REPO&nbsp;→</a></td>
+    </tr>
+    <tr>
+      <td valign="top"><code>G02</code></td>
+      <td valign="top"><strong>Cyber-Incident-Response</strong><br>ML-assisted platform to report and respond to cyber and physical incidents: prediction, guidance, live analytics and maps.<br><code>FLASK</code> <code>PYTHON</code> <code>CHART.JS</code> <code>LEAFLET</code> · <a href="https://github.com/Maheshannayboeina/Cyber-Incident-Response">REPO&nbsp;→</a></td>
+    </tr>
+    <tr>
+      <td valign="top"><code>G03</code></td>
+      <td valign="top"><strong>cyber-colloquy</strong><br>Official website for the SAKEC Cyber Security Department: events, achievements and projects.<br><code>NEXT.JS</code> <code>TAILWIND</code> <code>VERCEL</code> · <a href="https://cyber-colloquy.vercel.app">LIVE&nbsp;→</a>&nbsp;·&nbsp;<a href="https://github.com/Maheshannayboeina/cyber-colloquy">REPO&nbsp;→</a></td>
+    </tr>
+    <tr>
+      <td valign="top"><code>G04</code></td>
+      <td valign="top"><strong>Eth3real-Notes</strong><br>Living knowledge base: TryHackMe and Hack The Box walkthroughs, CTF writeups, exploitation notes.<br><code>GITBOOK</code> <code>MARKDOWN</code> · <a href="https://eth3real.gitbook.io/eth3real">READ&nbsp;→</a>&nbsp;·&nbsp;<a href="https://github.com/Maheshannayboeina/Eth3real-Notes">SOURCE&nbsp;→</a></td>
+    </tr>
+    <tr>
+      <td valign="top"><code>G05</code></td>
+      <td valign="top"><strong>learning_c</strong><br>Public study log while working through <em>Head First C</em> — one commit at a time.<br><code>C</code> · <a href="https://github.com/Maheshannayboeina/learning_c">REPO&nbsp;→</a></td>
+    </tr>
+    <tr>
+      <td valign="top"><code>G06</code></td>
+      <td valign="top"><strong>Active Directory Offensive Security Lab</strong><br>Three-host AD range: LLMNR/IPv6 poisoning, SMB/NTLM relay, Kerberoasting, AS-REP Roasting, Pass-the-Hash, RBCD, Golden Ticket and ESC1. Attack paths mapped in BloodHound.<br><code>WINDOWS SERVER</code> <code>ACTIVE DIRECTORY</code> <code>BLOODHOUND</code> · <code>CLASSIFIED</code></td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="center">
   <img src="assets/divider.svg" alt="" width="100%">
@@ -84,16 +132,24 @@ eth3real@nightcity:~$ status --now
 
 *Receipts, not vibes.*
 
-| REP | PROOF | UNLOCKED |
-| :-- | :-- | :-- |
-| [**CVE-2026-121427**](https://github.com/Maheshannayboeina/cve-research/tree/main/advisories/2026/CVE-2026-121427) | High 8.7 · AzuraCast config injection (CWE-15, CWE-862) · [GHSA-2wcv-vv3g-g86q](https://github.com/AzuraCast/AzuraCast/security/advisories/GHSA-2wcv-vv3g-g86q) | `2026` |
-| **TryHackMe Legend** | Top 1% · 300+ rooms cleared · [profile](https://tryhackme.com/p/Eth3real) | `2026` |
-| **Hack The Box Platinum** | Level 50 · Season 10 rank #2,131 · [profile](https://app.hackthebox.com/users/2298600) | `2026` |
-| **BSides Mumbai CTF 2026** | Challenge author · four web and crypto challenges, including a hard and an insane web challenge; official solutions written | `2026` |
-| **X'ploitathon 2026** | 1st place / 200+ teams with DΣDSEC | `2026` |
-| **CTF podiums** | 2nd RAIT CTF · 2nd BYPASS CTF · 4th at KJSSE CTF 3.0 | `2026` |
-| **DΣDSEC** | Co-founder · Top 30 in India on CTFtime · two events for 75+ participants · [community](https://www.linkedin.com/company/teamdedsec) | `2025 →` |
-| **CGPA 9.63 / 10** | B.Tech Cybersecurity, SAKEC · expected 2027 | `2027` |
+<table>
+  <thead>
+    <tr>
+      <th align="left">REP</th>
+      <th align="left">PROOF</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td valign="top"><strong>CVE-2026-121427</strong></td><td valign="top">High 8.7 · AzuraCast config injection (CWE-15, CWE-862) · <a href="https://github.com/AzuraCast/AzuraCast/security/advisories/GHSA-2wcv-vv3g-g86q">GHSA-2wcv-vv3g-g86q</a> ·&nbsp;<code>2026</code></td></tr>
+    <tr><td valign="top"><strong>TryHackMe Legend</strong></td><td valign="top">Top 1% · 300+ rooms cleared · <a href="https://tryhackme.com/p/Eth3real">profile</a> ·&nbsp;<code>2026</code></td></tr>
+    <tr><td valign="top"><strong>Hack The Box Platinum</strong></td><td valign="top">Level 50 · Season 10 rank #2,131 · <a href="https://app.hackthebox.com/users/2298600">profile</a> ·&nbsp;<code>2026</code></td></tr>
+    <tr><td valign="top"><strong>BSides Mumbai CTF 2026</strong></td><td valign="top">Challenge author · four web and crypto challenges, including a hard and an insane web challenge; official solutions written ·&nbsp;<code>2026</code></td></tr>
+    <tr><td valign="top"><strong>X'ploitathon 2026</strong></td><td valign="top">1st place / 200+ teams with DΣDSEC ·&nbsp;<code>2026</code></td></tr>
+    <tr><td valign="top"><strong>CTF podiums</strong></td><td valign="top">2nd RAIT CTF · 2nd BYPASS CTF · 4th at KJSSE CTF 3.0 ·&nbsp;<code>2026</code></td></tr>
+    <tr><td valign="top"><strong>DΣDSEC</strong></td><td valign="top">Co-founder · Top 30 in India on CTFtime · two events for 75+ participants · <a href="https://www.linkedin.com/company/teamdedsec">community</a> ·&nbsp;<code>2025 →</code></td></tr>
+    <tr><td valign="top"><strong>CGPA 9.63 / 10</strong></td><td valign="top">B.Tech Cybersecurity, SAKEC · expected 2027 ·&nbsp;<code>2027</code></td></tr>
+  </tbody>
+</table>
 
 <div align="center">
   <img src="assets/divider.svg" alt="" width="100%">
@@ -103,10 +159,24 @@ eth3real@nightcity:~$ status --now
 
 *Jack in. The notes are the memory.*
 
-| ARCHIVE | WHAT'S INSIDE | JACK IN |
-| :-- | :-- | :-- |
-| **ETH3REAL Notes** | TryHackMe and Hack The Box walkthroughs, CTF event writeups, exploitation notes. Continuously updated. | [GITBOOK →](https://eth3real.gitbook.io/eth3real) · [SOURCE →](https://github.com/Maheshannayboeina/Eth3real-Notes) |
-| **CVE Research** | Coordinated disclosure archive: advisory writeups, machine-readable metadata, disclosure policy and validation CI. | [REPO →](https://github.com/Maheshannayboeina/cve-research) |
+<table>
+  <thead>
+    <tr>
+      <th align="left">ARCHIVE</th>
+      <th align="left">JACK IN</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td valign="top"><strong>ETH3REAL Notes</strong></td>
+      <td valign="top">TryHackMe and Hack The Box walkthroughs, CTF event writeups, exploitation notes. Continuously updated.<br><a href="https://eth3real.gitbook.io/eth3real">GITBOOK&nbsp;→</a><br><a href="https://github.com/Maheshannayboeina/Eth3real-Notes">SOURCE&nbsp;→</a></td>
+    </tr>
+    <tr>
+      <td valign="top"><strong>CVE Research</strong></td>
+      <td valign="top">Coordinated disclosure archive: advisory writeups, machine-readable metadata, disclosure policy and validation CI.<br><a href="https://github.com/Maheshannayboeina/cve-research">REPO&nbsp;→</a></td>
+    </tr>
+  </tbody>
+</table>
 
 > *The city is a dataset. Learn to read it.*
 
@@ -119,10 +189,11 @@ eth3real@nightcity:~$ status --now
 *Final encounter: **The Recruiter**. HP: ∞. Weakness: shipped work, clear reports, CTF receipts.*
 
 ```text
-[ BOSS ENCOUNTER ]  THE RECRUITER
-HP          ∞
-WEAKNESS    evidence, clarity, receipts
-DROP        full-time security role
+[ BOSS ENCOUNTER ]
+THE RECRUITER
+HP        ∞
+WEAKNESS  evidence, clarity
+DROP      full-time role
 ```
 
 | CONTRACT | DETAIL |
@@ -148,7 +219,8 @@ DROP        full-time security role
 A message is buried in the city grid:
 
 ```text
-ZmxhZ3tuM3Yzcl9mNGQzXzR3NHlfczRtdXI0MX0=
+ZmxhZ3tuM3Yzcl9mNGQzXzR3
+NHlfczRtdXI0MX0=
 ```
 
 `base64 -d` is your friend. First runner to email me the decoded line gets a shout-out in the next build.
