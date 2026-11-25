@@ -3,12 +3,12 @@
 </div>
 
 <p align="center">
-  <a href="#01--active-missions"><kbd>01</kbd>&nbsp;MISSIONS</a> ·
-  <a href="#02--gig-board"><kbd>02</kbd>&nbsp;GIGS</a> ·
-  <a href="#03--loadout"><kbd>03</kbd>&nbsp;LOADOUT</a> ·
-  <a href="#04--reputation"><kbd>04</kbd>&nbsp;REP</a> ·
-  <a href="#05--braindance"><kbd>05</kbd>&nbsp;BRAINDANCE</a> ·
-  <a href="#06--boss-fight"><kbd>06</kbd>&nbsp;CONTACT</a>
+  <a href="#user-content-01--active-missions"><kbd>01</kbd>&nbsp;MISSIONS</a> ·
+  <a href="#user-content-02--gig-board"><kbd>02</kbd>&nbsp;GIGS</a> ·
+  <a href="#user-content-03--loadout"><kbd>03</kbd>&nbsp;LOADOUT</a> ·
+  <a href="#user-content-04--reputation"><kbd>04</kbd>&nbsp;REP</a> ·
+  <a href="#user-content-05--braindance"><kbd>05</kbd>&nbsp;BRAINDANCE</a> ·
+  <a href="#user-content-06--boss-fight"><kbd>06</kbd>&nbsp;CONTACT</a>
 </p>
 
 ```console
